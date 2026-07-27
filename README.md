@@ -1,5 +1,5 @@
 # 💫 About Me:
-Coding For Fun ¿<br>Ref: OPM
+Coding For Fun ¿
 
 
 # 💻 Tech Stack:
